@@ -1,5 +1,7 @@
 # Dynamic-UTM-UTF-8-Unbounce-Attribution
 
+https://www.youtube.com/embed/ivTYocolq7E
+
 - Updated UTM UTF-8 Encoded script to dynamically work in script manager. (requires a text span with the id="bundlename"
 The text element visibility is optional (In Unbounce -> Contents | left toolbar). UTM script will be able to get the bundle name from that element in all cases.
 ```
