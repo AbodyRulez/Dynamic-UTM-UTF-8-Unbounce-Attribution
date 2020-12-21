@@ -6,4 +6,4 @@ Desktop Top;: 65
 //السلام عليكم، شاهدت إعلانكم على الإنترنت وأرغب بالاستفسار عن برنامج القلق المعمم
 
 
-<h1 style="line-height: 32px; text-align: center;"><span id="bundlename" style="font-weight: 400; font-family: Tajawal; font-size: 15px; color: rgb(255, 255, 255);">الرهاب الاجتماعي</span></h1>
+< h1 style="line-height: 32px; text-align: center;"><span id="bundlename" style="font-weight: 400; font-family: Tajawal; font-size: 15px; color: rgb(255, 255, 255);">الرهاب الاجتماعي</span></h1 >
