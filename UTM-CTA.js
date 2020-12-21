@@ -1,4 +1,4 @@
-<!--Unbounce - Script Manager. Make sure the placement is in Head, and included on option is set to Main Landing Page-->
+//Unbounce - Script Manager. Make sure the placement is in Head, and included on option is set to Main Landing Page
 <script>
   
 function getURLParameter(name) {
